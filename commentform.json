@@ -7,5 +7,16 @@
 		{
 			"name": "סטריפ נוס"
 		}
+	],
+	"strip": [
+		{
+			"name": "\n\t\tכותרת ראשית",
+			"book": [
+				{
+					"bookName": "המשרד לאושר עילאי",
+					"bookLink": "https://www.e-vrit.co.il/Product/18205/%D7%94%D7%9E%D7%A9%D7%A8%D7%93_%D7%9C%D7%90%D7%95%D7%A9%D7%A8_%D7%A2%D7%99%D7%9C%D7%90%D7%99"
+				}
+			]
+		}
 	]
 }
